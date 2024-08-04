@@ -1,0 +1,7 @@
+datasets # Add -U flag
+pillow
+matplotlib
+numpy
+openai
+anthropic
+notebook
