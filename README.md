@@ -24,6 +24,8 @@ The tasks are:
 Here, I am focusing on the document-oriented visual question answering and the key information extraction categories. These tasks are more than just retrieving; rather, specific questions are asked, and sometimes multiple points of information have to be found in an image and combined to come to the correct conclusion.
 Here, *scoring* was slightly more involved, as the labels are often too strict or the questions ambiguous. Especially for retrieving quantities like weight, volumes, and amount of money, the official labels would only give the number, whereas the model gave the units as well. The latter seems more appropriate to me (e.g., the label said "300" and the model retrieved "300 million €," which was actually correct given the document's contents).
 
+Each dataset contains 200 examples.
+
 #### Combined Results in One Plot
 
 ![OCR Benchmark Results](combined_ocr_benchmark_results.png)
