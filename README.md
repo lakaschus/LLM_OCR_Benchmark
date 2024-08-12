@@ -28,7 +28,7 @@ Each dataset contains 200 examples.
 
 #### Combined Results in One Plot
 
-![OCR Benchmark Results](combined_ocr_benchmark_results.png)
+![OCR Benchmark Results](combined_ocr_benchmark_result.png)
 
 ### Key Findings:
 
